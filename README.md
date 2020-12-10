@@ -1,3 +1,4 @@
 bonjour
 rebonjour
 changement commit initial
+squash
